@@ -1,1 +1,2 @@
 this is file from new feature1
+change in new-feature , conflict main
